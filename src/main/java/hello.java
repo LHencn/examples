@@ -7,6 +7,4 @@ public class hello {
         int num = 1 / 0;
         int a = num + 10;
     }
-
-    public void feature() {}
 }
