@@ -5,7 +5,7 @@ public class hello {
 
     public void bug() {
         int num = 10;
-        int a = num + 10;
+        int a = num + 120;
     }
 
     public void feature() {
