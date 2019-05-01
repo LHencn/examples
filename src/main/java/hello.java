@@ -8,7 +8,4 @@ public class hello {
         int a = num + 10;
     }
 
-    public void feature() {
-
-    }
 }
